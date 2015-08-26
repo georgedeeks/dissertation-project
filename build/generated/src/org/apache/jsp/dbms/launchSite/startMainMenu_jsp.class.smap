@@ -1,0 +1,26 @@
+SMAP
+startMainMenu_jsp.java
+JSP
+*S JSP
+*F
++ 0 startMainMenu.jsp
+dbms/launchSite/startMainMenu.jsp
+*L
+5,18:44
+23:62,3
+24,3:65
+27:68,3
+28,4:71
+32:75,3
+33,3:78
+36:81,3
+37,4:84
+41:88,3
+42,3:91
+45:94,3
+46,12:97
+58:109,3
+59,10:112
+69:122,3
+70,13:125
+*E
